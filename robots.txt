@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-fg8byh.pulaucuan.sbs/sitemap.xml
